@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">RMC Guwahati</string>
+
+    <string-array name="states">
+        <item>Select the state</item>
+        <item>Assam</item>
+        <item>Meghalaya</item>
+        <item>Tripura</item>
+        <item>Nagaland</item>
+        <item>Manipur</item>
+        <item>Mizoram</item>
+        <item>Arunachal Pradesh</item>
+    </string-array>
+    <string-array name="assam">
+        <item>Guwahati</item>
+        <item>Dibrugarh</item>
+        <item>Tezpur</item>
+        <item>North Lakhimpur</item>
+        <item>Silchar</item>
+        <item>Dhubri</item>
+        <item>Jorhat</item>
+        <item>Tinsukia</item>
+        <item>Golaghat</item>
+        <item>Barpeta</item>
+        <item>Goalpara</item>
+        <item>Mazbat</item>
+    </string-array>
+
+    <string-array name="meghalaya">
+        <item>Shillong</item>
+        <item>Cherrapunji</item>
+    </string-array>
+
+    <string-array name="tripura">
+        <item>Agartala</item>
+        <item>Kailashahar</item>
+    </string-array>
+
+    <string-array name="manipur">
+        <item>Imphal</item>
+    </string-array>
+
+    <string-array name="nagaland">
+        <item>Dimapur</item>
+        <item>Mokokchung</item>
+    </string-array>
+
+    <string-array name="mizoram">
+        <item>Lengpui</item>
+        <item>Champai</item>
+    </string-array>
+
+    <string-array name="arunachal">
+        <item>Itanagar</item>
+        <item>Passighat</item>
+        <item>Tawang</item>
+        <item>Annani</item>
+    </string-array>
+    <string-array name="nowcasting">
+        <item>Guwahati</item>
+        <item>Dibrugarh</item>
+        <item>Shillong</item>
+        <item>Jorhat</item>
+        <item>Dhubri</item>
+        <item>Silchar</item>
+        <item>North Lakhimpur</item>
+    </string-array>
+</resources>
+
